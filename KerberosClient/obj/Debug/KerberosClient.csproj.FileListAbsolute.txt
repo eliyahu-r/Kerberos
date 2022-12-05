@@ -1,0 +1,11 @@
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\bin\Debug\KerberosClient.exe.config
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\bin\Debug\KerberosClient.exe
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\bin\Debug\KerberosClient.pdb
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\bin\Debug\Util.exe
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\bin\Debug\Util.pdb
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\bin\Debug\Util.exe.config
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\obj\Debug\KerberosClient.csproj.AssemblyReference.cache
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\obj\Debug\KerberosClient.csproj.CoreCompileInputs.cache
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\obj\Debug\KerberosClient.csproj.CopyComplete
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\obj\Debug\KerberosClient.exe
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosClient\obj\Debug\KerberosClient.pdb
