@@ -1,0 +1,11 @@
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\bin\Amulet\KerberosHost.exe
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\bin\Amulet\KerberosHost.pdb
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\bin\Amulet\JhiSharp.dll
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\obj\x86\Amulet\KerberosHost.csproj.AssemblyReference.cache
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\obj\x86\Amulet\KerberosHost.csproj.CoreCompileInputs.cache
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\obj\x86\Amulet\KerberosHost.csproj.CopyComplete
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\obj\x86\Amulet\KerberosHost.exe
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\obj\x86\Amulet\KerberosHost.pdb
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\bin\Amulet\Util.exe
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\bin\Amulet\Util.pdb
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\KerberosHost\bin\Amulet\Util.exe.config
