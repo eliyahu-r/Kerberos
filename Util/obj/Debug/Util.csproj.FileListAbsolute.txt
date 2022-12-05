@@ -1,0 +1,7 @@
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\Util\bin\Debug\Util.exe.config
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\Util\bin\Debug\Util.exe
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\Util\bin\Debug\Util.pdb
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\Util\obj\Debug\Util.csproj.AssemblyReference.cache
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\Util\obj\Debug\Util.exe
+C:\Users\אביחי סוריה\My Documents\Visual Studio 2019\Projects\KerberosHost\Util\obj\Debug\Util.pdb
